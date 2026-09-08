@@ -6,6 +6,13 @@ public class Employee {
     private int salary;
     private int age;
     private boolean active;
+    private int id;
+
+    public Employee(int id, String name, int salary) {
+        this.id = id;
+        this.name = name;
+        this.salary = salary;
+    }
 
     public Employee() {
     }
