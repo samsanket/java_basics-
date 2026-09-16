@@ -1,6 +1,6 @@
 package Inheritance;
 
-public class `mainvcar {
+public class mainvcar {
 
     public static void main(String[] args) {
 
